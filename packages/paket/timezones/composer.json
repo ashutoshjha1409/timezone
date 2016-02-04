@@ -1,0 +1,12 @@
+{
+    "name": "paket/timezones",
+    "description": "Demo-package to show time",
+    "authors": [
+        {
+            "name": "ashutosh",
+            "email": "ashutosh.j@1985.co.in"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
